@@ -1,0 +1,25 @@
+Install WordPress:
+
+Visit WordPress.org and download the latest version.
+Follow the installation instructions to set up WordPress on your server.
+Log in to WordPress Dashboard:
+
+Access your WordPress admin dashboard (typically located at http://yourdomain.com/wp-admin/).
+Create a New Post:
+
+Go to Posts -> Add New to create a new blog post.
+In the editor, you can use HTML tags directly. For example:
+<h2>This is a Blog Post Title</h2>
+<p>This is a paragraph of text in the blog post.</p>
+<a href="https://example.com">Visit Example.com</a>
+Anchor Tag (Link):
+Use the <a> tag for anchor tags. Example:
+<a href="https://example.com">Visit Example.com</a>
+Title Tag:
+WordPress automatically generates title tags based on your post title. Ensure your post title is descriptive and relevant.
+
+Publish Your Post:
+Once you've added your content, click the "Publish" button to make your post live.
+
+View Your Blog:
+Visit your blog's main page to see your new post
